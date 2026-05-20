@@ -1,3 +1,5 @@
+package dia13;
+
 import java.util.Scanner;
 
 public class ContadorImc {
